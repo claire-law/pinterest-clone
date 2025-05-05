@@ -1,0 +1,16 @@
+username,location,country,follower_count,following_count,session_duration,activity_score,login_count
+mike_wilson,"Chicago, USA", USA,0,2,108,0.0,21
+sarah_smith,"Los Angeles, USA", USA,4,3,12,1.2,43
+emma_brown,"London, UK", UK,3,3,50,0.8999999999999999,27
+david_lee,"San Francisco, USA", USA,1,2,62,0.3,31
+lisa_chen,"Paris, France", France,4,4,26,1.2,37
+james_miller,"Detroit, USA", USA,3,5,87,0.8999999999999999,43
+olivia_park,"Seoul, South Korea", South Korea,4,2,44,1.2,44
+ryan_kim,"Seattle, USA", USA,2,3,71,0.6,24
+mia_zhang,"Shanghai, China", China,3,2,115,0.8999999999999999,22
+lucas_silva,"Berlin, Germany", Germany,2,2,114,0.6,44
+ava_patel,"Mumbai, India", India,5,2,50,1.5,22
+noah_anderson,"Copenhagen, Denmark", Denmark,3,2,10,0.8999999999999999,45
+john_doe,"New York, USA", USA,4,3,19,1.2,32
+alex_wright,"Sydney, Australia", Australia,3,4,14,0.8999999999999999,18
+sophia_rodriguez,"Barcelona, Spain", Spain,1,3,13,0.3,22

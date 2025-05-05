@@ -46,6 +46,14 @@ pinterest-clone/
 └── README.md
 ```
 
+## How to run:
+```bash
+sudo mongod --dbpath backend/data   # start MongoDB server
+npm start --prefix backend          # start backend server
+npm start --prefix frontend         # start frontend server
+mongosh 							# starts MongoDB shell
+```
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
